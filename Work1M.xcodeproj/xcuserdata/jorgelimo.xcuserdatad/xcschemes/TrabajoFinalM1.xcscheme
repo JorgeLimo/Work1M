@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B575E2F71E58CE090067FC4E"
-               BuildableName = "TrabajoFinalM1.app"
-               BlueprintName = "TrabajoFinalM1"
-               ReferencedContainer = "container:TrabajoFinalM1.xcodeproj">
+               BuildableName = "Work1M.app"
+               BlueprintName = "Work1M"
+               ReferencedContainer = "container:Work1M.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B575E2F71E58CE090067FC4E"
-            BuildableName = "TrabajoFinalM1.app"
-            BlueprintName = "TrabajoFinalM1"
-            ReferencedContainer = "container:TrabajoFinalM1.xcodeproj">
+            BuildableName = "Work1M.app"
+            BlueprintName = "Work1M"
+            ReferencedContainer = "container:Work1M.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B575E2F71E58CE090067FC4E"
-            BuildableName = "TrabajoFinalM1.app"
-            BlueprintName = "TrabajoFinalM1"
-            ReferencedContainer = "container:TrabajoFinalM1.xcodeproj">
+            BuildableName = "Work1M.app"
+            BlueprintName = "Work1M"
+            ReferencedContainer = "container:Work1M.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B575E2F71E58CE090067FC4E"
-            BuildableName = "TrabajoFinalM1.app"
-            BlueprintName = "TrabajoFinalM1"
-            ReferencedContainer = "container:TrabajoFinalM1.xcodeproj">
+            BuildableName = "Work1M.app"
+            BlueprintName = "Work1M"
+            ReferencedContainer = "container:Work1M.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
